@@ -1,0 +1,4 @@
+bash tester.sh dir x y
+dir:	directory containing push_swap binary
+x:		input length
+y:		number of tests
